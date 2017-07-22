@@ -1,0 +1,13 @@
+//server.use(bodyParser.urlencoded({ extended: true }))
+
+//    var orders = [{
+//        name: "oren",
+//        phone: "0501234567",
+//        amount: 4,
+//        time: "00/00/00 19:00"
+//    },{
+//        name: "dana",
+//        phone: "0501234567",
+//        amount: 2,
+//        time: "00/00/00 21:00"
+//    }]

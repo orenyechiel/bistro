@@ -1,0 +1,56 @@
+        body {
+            background-image: url(conversion.jpg);
+            background-size: cover;
+            position: relative;
+        }
+        div.form {
+            padding-top: 12px;
+            border-radius: 2%;
+            background: rgba(0, 0, 0, 0.3);
+        }
+        label {
+            font-family: 'Sanchez', sans-serif;
+            color: #6fbac7;
+            font-size: 16px;
+        }
+        div.next {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 2%;
+        }
+        ::-webkit-input-placeholder {
+            font-family: 'Sanchez', sans-serif; 
+        }
+        .btn {
+            font-weight: bold;
+            font-family: Sanchez;
+            color: #6fbac7;
+            background-color:#1e5858;
+        }
+        button {
+            background: rgba(0, 0, 0, 0.2);
+            border: none;
+        }
+        h1 {
+            color: #706081;
+            text-align: center;
+            font-family: 'Economica', sans-serif;
+            font-size: 47px;
+        }
+        h3 {
+            margin-top: 14px;
+            margin-bottom: 12px;
+            color: #6fbac7;
+            font-family: 'Sanchez', sans-serif;
+        }
+        table {
+            border-collapse: separate;
+            width: 100%;
+            border: 1px solid azure;
+            color: #133c43;
+        } 
+        td, th {
+            font-family: Sanchez;
+            color: azure;
+            border: 1px solid azure;
+            text-align: center;
+        }
