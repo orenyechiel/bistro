@@ -4,7 +4,9 @@ var port = process.env.PORT || 5000;
 var bodyParser = require('body-parser');
 var mongodb = require('mongodb').MongoClient;
 var ObjectId = require('mongodb').ObjectId;
-var url = "mongodb://localhost:27017/ordersDB";
+var url = "mongodb://<orenp.25>:<oren2510>@ds125053.mlab.com:25053/heroku_355lb7k4";
+//<oren_25>:<oren2510>
+//var url = "mongodb://localhost:27017/ordersDB";
 
 server.use( express.static('public/'));
 
